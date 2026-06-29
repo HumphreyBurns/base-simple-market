@@ -108,3 +108,11 @@ npm run build
 ```
 
 Start the production server:
+
+```bash
+npm start
+```
+
+## Usage
+
+Use the home page to enter the market experience.
