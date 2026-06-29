@@ -90,3 +90,11 @@ Start the development server:
 ```bash
 npm run dev
 ```
+
+Then open the local development URL shown in your terminal.
+
+For a typical Next.js project, this is usually:
+
+```text
+http://localhost:3000
+```
