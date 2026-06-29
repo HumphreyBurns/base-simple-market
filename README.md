@@ -154,3 +154,12 @@ The primary product is connected to a real contract.
 Additional shelf cards are mock slots. These placeholders keep the multi-page market UI complete until more contract-backed product data is available.
 
 Builder code and encoded string placeholders are centralized in:
+
+```text
+lib/wagmi.ts
+```
+
+## Development Notes
+
+- Keep Wagmi and Viem configuration changes organized in the existing library files.
+- Avoid duplicating contract or encoded string configuration across route components.
