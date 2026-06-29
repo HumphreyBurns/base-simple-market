@@ -171,3 +171,13 @@ lib/wagmi.ts
 Before making changes, run the project locally and verify the affected routes.
 
 Recommended checks include:
+
+```bash
+npm run build
+```
+
+If linting or formatting scripts are available in the project, run them before opening a pull request.
+
+## License
+
+No license information is specified in the original project notes.
