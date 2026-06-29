@@ -43,3 +43,12 @@ The application includes the following routes:
 - `/about`
 
 ## Project Structure
+
+The exact folder structure may evolve, but the main application follows the Next.js App Router model.
+
+Important project areas include:
+
+- `app/` for application routes and pages
+- `lib/wagmi.ts` for Wagmi-related configuration, builder code, and encoded string placeholders
+- Product pages for browsing and viewing marketplace items
+- Owner and order pages for market-related workflows
