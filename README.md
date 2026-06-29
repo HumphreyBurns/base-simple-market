@@ -163,3 +163,11 @@ lib/wagmi.ts
 
 - Keep Wagmi and Viem configuration changes organized in the existing library files.
 - Avoid duplicating contract or encoded string configuration across route components.
+- Treat mock shelf cards as temporary UI placeholders unless they are intentionally promoted to supported products.
+- Keep route behavior consistent with the existing marketplace flow.
+
+## Contributing
+
+Before making changes, run the project locally and verify the affected routes.
+
+Recommended checks include:
