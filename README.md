@@ -25,3 +25,12 @@ The app is designed around a primary onchain product while keeping the broader m
 - Centralized builder code and encoded string placeholders in `lib/wagmi.ts`
 
 ## Tech Stack
+
+- Next.js App Router
+- TypeScript
+- Wagmi
+- Viem
+
+## Routes
+
+The application includes the following routes:
