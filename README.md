@@ -34,3 +34,12 @@ The app is designed around a primary onchain product while keeping the broader m
 ## Routes
 
 The application includes the following routes:
+
+- `/`
+- `/products`
+- `/products/[id]`
+- `/orders`
+- `/owner`
+- `/about`
+
+## Project Structure
