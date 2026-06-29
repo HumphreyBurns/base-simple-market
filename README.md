@@ -98,3 +98,13 @@ For a typical Next.js project, this is usually:
 ```text
 http://localhost:3000
 ```
+
+## Build
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Start the production server:
