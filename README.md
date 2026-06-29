@@ -126,3 +126,11 @@ Browse available product cards from the products page:
 Open a specific product page using its product ID:
 
 ```text
+/products/[id]
+```
+
+Review order-related views at:
+
+```text
+/orders
+```
