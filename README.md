@@ -62,3 +62,12 @@ git clone https://github.com/HumphreyBurns/base-simple-market.git
 ```
 
 Move into the project directory:
+
+```bash
+cd base-simple-market
+```
+
+Install dependencies:
+
+```bash
+npm install
