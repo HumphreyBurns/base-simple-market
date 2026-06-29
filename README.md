@@ -71,3 +71,12 @@ Install dependencies:
 
 ```bash
 npm install
+```
+
+If your local setup requires environment variables, create a local environment file before running the app.
+
+For example:
+
+```bash
+cp .env.example .env.local
+```
