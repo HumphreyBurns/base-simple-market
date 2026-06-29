@@ -80,3 +80,13 @@ For example:
 ```bash
 cp .env.example .env.local
 ```
+
+If no example environment file is present, review the codebase for required runtime configuration before starting development.
+
+## Development
+
+Start the development server:
+
+```bash
+npm run dev
+```
