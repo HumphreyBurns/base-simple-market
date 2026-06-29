@@ -144,3 +144,13 @@ Access owner-related functionality at:
 Read project information at:
 
 ```text
+/about
+```
+
+## Onchain Product Notes
+
+The primary product is connected to a real contract.
+
+Additional shelf cards are mock slots. These placeholders keep the multi-page market UI complete until more contract-backed product data is available.
+
+Builder code and encoded string placeholders are centralized in:
