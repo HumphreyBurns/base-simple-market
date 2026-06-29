@@ -116,3 +116,13 @@ npm start
 ## Usage
 
 Use the home page to enter the market experience.
+
+Browse available product cards from the products page:
+
+```text
+/products
+```
+
+Open a specific product page using its product ID:
+
+```text
