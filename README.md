@@ -7,3 +7,12 @@ Repository: [https://github.com/HumphreyBurns/base-simple-market.git](https://gi
 ## Overview
 
 `base-simple-market` is a small marketplace-style application built for Base.
+
+It presents a simple digital product in a retro interface, with supporting pages for product browsing, product details, orders, owner actions, and project information.
+
+The app is designed around a primary onchain product while keeping the broader market interface ready for additional products as more contract data becomes available.
+
+## Features
+
+- Retro-styled market interface
+- Product listing page
