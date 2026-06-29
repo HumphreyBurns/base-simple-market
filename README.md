@@ -52,3 +52,13 @@ Important project areas include:
 - `lib/wagmi.ts` for Wagmi-related configuration, builder code, and encoded string placeholders
 - Product pages for browsing and viewing marketplace items
 - Owner and order pages for market-related workflows
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/HumphreyBurns/base-simple-market.git
+```
+
+Move into the project directory:
