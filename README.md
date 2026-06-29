@@ -134,3 +134,13 @@ Review order-related views at:
 ```text
 /orders
 ```
+
+Access owner-related functionality at:
+
+```text
+/owner
+```
+
+Read project information at:
+
+```text
